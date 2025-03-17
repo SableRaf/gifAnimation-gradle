@@ -27,13 +27,13 @@ java {
 // Such as:
 // <libName>.jar will be the name of your build jar
 // <libName>.zip will be the name of your release file
-val libName = "myLibrary"
+val libName = "GifAnimation"
 
 // The group ID of your library, which uniquely identifies your project.
 // It's often written in reverse domain name notation.
 // For example, if your website is "myDomain.com", your group ID would be "com.myDomain".
 // Replace "com.myDomain" with your own domain or organization name.
-group = "com.myDomain"
+group = "ch.extrapixel"
 
 // The version of your library. It usually follows semantic versioning (semver),
 // which uses three numbers separated by dots: "MAJOR.MINOR.PATCH" (e.g., "1.0.0").
@@ -41,7 +41,7 @@ group = "com.myDomain"
 // - MINOR: Increases when you add new features that are backward-compatible.
 // - PATCH: Increases when you make backward-compatible bug fixes.
 // You can update these numbers as you release new versions of your library.
-version = "1.0.0"
+version = "3.0.0"
 
 // The location of your sketchbook folder. The sketchbook folder holds your installed
 // libraries, tools, and modes. It is needed if you:
